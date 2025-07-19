@@ -2,6 +2,8 @@
 
 Este proyecto predice el precio de cierre de las acciones de **Netflix (NFLX)** combinando análisis técnico, análisis de sentimientos de noticias financieras, y modelos de redes neuronales profundas (LSTM y GRU).
 
+Guia: pueden acceder a la guia con el siguiente link [https://docs.google.com/document/d/1D0Qlp06zdU8aSvO08f1xpCyhQGBPyCnvP4JH2u_cbog/edit?usp=sharing](https://docs.google.com/document/d/1D0Qlp06zdU8aSvO08f1xpCyhQGBPyCnvP4JH2u_cbog/edit?usp=sharing)
+
 ---
 
 ## 🧠 Tecnologías y Bibliotecas Usadas
